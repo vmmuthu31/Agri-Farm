@@ -37,7 +37,7 @@ These are the few apps that only focus on the SCM but not to make familiar with 
 ## View Manufacturer Details
 ![image](https://user-images.githubusercontent.com/88650559/220404578-b6e873e0-ad47-41d9-a6b9-00da74ea8fca.png)
 
-## Presentation
+## Presentation Link:
 https://www.canva.com/design/DAFbGfcy0eQ/cvsElmw4NttLxlH5IUt1Mw/view?utm_content=DAFbGfcy0eQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 
