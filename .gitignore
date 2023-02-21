@@ -3,6 +3,10 @@
 # dependencies
 /node_modules
 /.pnp
+.env
+.env.example
+.env.local
+.env.staging
 .pnp.js
 
 # testing
