@@ -28,6 +28,7 @@ These are the few apps that only focus on the SCM but not to make familiar with 
 # Landing Page
 ![image](https://user-images.githubusercontent.com/88650559/220404397-184f52a2-616c-46ed-bc12-d6ab77c15725.png)
 # Biconomy Social-Auth
+![image](https://user-images.githubusercontent.com/88650559/220405230-d21a41c3-f0f7-4339-b384-856bd64062b4.png)
 # Add Manufacturer Details
 ![image](https://user-images.githubusercontent.com/88650559/220404726-6e0b5225-f832-423b-8b26-6c37f63b52bf.png)
 # View Manufacturer Details
