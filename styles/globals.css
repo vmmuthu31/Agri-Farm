@@ -2,15 +2,17 @@
 @tailwind components;
 @tailwind utilities;
 
-.bgimg{
-  background: url("../Assets/bg.jpg") no-repeat;
-  height: 100%;
 
+
+.bgimg{
+
+  height: 100%;
+  opacity: 95%;
   /* Center and scale the image nicely */
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  background-color: rgb(43, 43, 43);
+  
   
 }
 
