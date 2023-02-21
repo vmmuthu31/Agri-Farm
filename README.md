@@ -7,7 +7,7 @@ Blockchains play a vital role in FARMER to track and trace the origin of food pr
 1. 1 EDI Source.
 2. Kinetic. 
 3. Netstock.
-4. NetSuite. Highly viewed
+4. NetSuite. Highly viewed <br/>
 These are the few apps that only focus on the SCM but not to make familiar with farmer and industry.
 
 # Flow Diagram:
