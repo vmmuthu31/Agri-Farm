@@ -21,7 +21,7 @@ These are the few apps that only focus on the SCM but not to make familiar with 
 ![image](https://user-images.githubusercontent.com/88650559/220365168-68b4c389-872b-41e0-a4f8-4b6d9d9a55aa.png)
 
 # Tech Stack:
-FrontEND: NextJS, lit components
-BackEND:  Firebase, Solidity, DynamoDB.
-Framework: Tailwindcss, React-icons, MaterialUI
-Technologies: Blockchain, AI/ML, Cloud (AWS).
+1. FrontEND: NextJS, lit components
+2. BackEND:  Firebase, Solidity, DynamoDB.
+3. Framework: Tailwindcss, React-icons, MaterialUI
+4. Technologies: Blockchain, AI/ML, Cloud (AWS).
