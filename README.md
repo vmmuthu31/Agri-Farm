@@ -25,3 +25,12 @@ These are the few apps that only focus on the SCM but not to make familiar with 
 2. BackEND:  Firebase, Solidity, DynamoDB.
 3. Framework: Tailwindcss, React-icons, MaterialUI
 4. Technologies: Blockchain, AI/ML, Cloud (AWS).
+# Landing Page
+![image](https://user-images.githubusercontent.com/88650559/220404397-184f52a2-616c-46ed-bc12-d6ab77c15725.png)
+# Add Manufacturer Details
+![image](https://user-images.githubusercontent.com/88650559/220404726-6e0b5225-f832-423b-8b26-6c37f63b52bf.png)
+# View Manufacturer Details
+![image](https://user-images.githubusercontent.com/88650559/220404578-b6e873e0-ad47-41d9-a6b9-00da74ea8fca.png)
+
+
+
