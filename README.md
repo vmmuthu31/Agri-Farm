@@ -10,6 +10,13 @@ Blockchains play a vital role in FARMER to track and trace the origin of food pr
 4. NetSuite. Highly viewed <br/>
 These are the few apps that only focus on the SCM but not to make familiar with farmer and industry.
 
+# Our Feature:
+1. Learning Platform
+2. Suggestion, recommendation and removing sensitive contents
+3. Multilingual Support
+4. Whatsapp Support
+5. Query Section
+
 # Flow Diagram:
 ![image](https://user-images.githubusercontent.com/88650559/220365168-68b4c389-872b-41e0-a4f8-4b6d9d9a55aa.png)
 
