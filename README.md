@@ -27,6 +27,7 @@ These are the few apps that only focus on the SCM but not to make familiar with 
 4. Technologies: Blockchain, AI/ML, Cloud (AWS).
 # Landing Page
 ![image](https://user-images.githubusercontent.com/88650559/220404397-184f52a2-616c-46ed-bc12-d6ab77c15725.png)
+# Biconomy Social-Auth
 # Add Manufacturer Details
 ![image](https://user-images.githubusercontent.com/88650559/220404726-6e0b5225-f832-423b-8b26-6c37f63b52bf.png)
 # View Manufacturer Details
