@@ -264,16 +264,18 @@ export default function Home() {
                       sunt amet fugiat veniam occaecat fugiat.
                     </p>
                     <div className="mt-10 sm:mt-12">
-                      <form action="#" className="sm:max-w-xl sm:mx-auto lg:mx-0">
+                      <div action="#" className="sm:max-w-xl sm:mx-auto lg:mx-0">
                         <div className="sm:flex">
                           
                           <div className="mt-3 sm:mt-0 sm:ml-3">
+                            <Link href="/viewfarmer">
                             <button
                               type="submit"
                               className="block w-full py-3 px-4 rounded-md shadow bg-gradient-to-r from-teal-500 to-cyan-600 text-white font-medium hover:from-teal-600 hover:to-cyan-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-cyan-400 focus:ring-offset-gray-900"
                             >
                              Let's dive in
                             </button>
+                            </Link>
                           </div>
                         </div>
                         <p className="mt-3 text-sm text-gray-300 sm:mt-4">
@@ -284,7 +286,7 @@ export default function Home() {
                           </a>
                           .
                         </p>
-                      </form>
+                      </div>
                     </div>
                   </div>
                 </div>

@@ -111,29 +111,34 @@ const ViewData = () => {
                       <td className="px-6 py-4 whitespace-nowrap text-sm font-medium text-gray-900">
                         {item.id}
                       </td>
-                      <td className={Styles.tableData}>{item.manufacturerName}</td>
-                      <td className={Styles.tableData}>{item.manufacturerDetails}</td>
+                      <td className={Styles.tableData}>
+                        {item.manufacturerName}
+                      </td>
+                      <td className={Styles.tableData}>
+                        {item.manufacturerDetails}
+                      </td>
                       <td className={Styles.tableData}>{item.city}</td>
                       <td className={Styles.tableData}>{item.productName}</td>
                       <td className={Styles.tableData}>{item.productPrice}</td>
-                      <td className={Styles.tableData}>{item.productCategory}</td>
-            
+                      <td className={Styles.tableData}>
+                        {item.productCategory}
+                      </td>
+
                       <td className={Styles.tableData}>{item.phoneNumber}</td>
                       <td className="text-sm text-gray-900 font-light px-6 py-4 whitespace-nowrap text-center">
                         <Link
                           href={{
-                            pathname: "/updatefarmerdata",
+                            pathname: "/updatefarmer",
                             query: {
                               id: item.id,
                               dateAdded: item.dateAdded,
                               manufacturerName: item.manufacturerName,
                               manufacturerDetails: item.manufacturerDetails,
-                              productName:item.productName,
+                              productName: item.productName,
                               city: item.city,
                               phoneNumber: item.phoneNumber,
                               productPrice: item.productPrice,
                               productCategory: item.productCategory,
-                              
                             },
                           }}
                         >
