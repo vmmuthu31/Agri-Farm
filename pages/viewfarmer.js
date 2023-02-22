@@ -14,7 +14,6 @@ const Styles = {
 const ViewData = () => {
   let data = [];
   const [tableData, setTableData] = useState([]);
-
   //   scanning the dynamodb table
   const scanTable = async () => {
     try {
