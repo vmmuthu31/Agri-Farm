@@ -15,7 +15,7 @@ These are the few apps that only focus on the SCM but not to make familiar with 
 2. Suggestion, recommendation and removing sensitive contents
 3. Multilingual Support
 4. Whatsapp Support
-5. Query Section
+5. Funds Section
 
 ## Flow Diagram:
 ![image](https://user-images.githubusercontent.com/88650559/220365168-68b4c389-872b-41e0-a4f8-4b6d9d9a55aa.png)
