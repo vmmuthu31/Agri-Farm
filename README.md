@@ -45,11 +45,11 @@ To build this solution, the following steps would be required:
 5. Overall, Web3 technology can help revolutionize the food supply chain by enabling end-to-end traceability, improving efficiency and transparency, and enhancing the security of the system. This can ultimately benefit farmers, businesses, and consumers alike
 
 ## Tech Stack:
-FrontEND: NextJS
-BackEND:  Solidity, DynamoDB.
-Framework: Tailwindcss, React-icons, MaterialUI, Biconomy, Push Protocol, Filecoin
-Technologies: Blockchain, AI/ML, Cloud (AWS).
-UseCases: We use Biconomy Social-Auth to connect web2 user to web3. As farmers has no idea regards wallet it will be the gateway to them. We use Push protocols to notify each step to step progress updation. And the Filecoin blockchain records transactions to provide verification of file storage 
+1. FrontEND: NextJS
+2. BackEND:  Solidity, DynamoDB.
+3. Framework: Tailwindcss, React-icons, MaterialUI, Biconomy, Push Protocol, Filecoin
+4. Technologies: Blockchain, AI/ML, Cloud (AWS).
+5. UseCases: We use Biconomy Social-Auth to connect web2 user to web3. As farmers has no idea regards wallet it will be the gateway to them. We use Push protocols to notify each step to step progress updation. And the Filecoin blockchain records transactions to provide verification of file storage 
 
 ## Landing Page
 ![image](https://user-images.githubusercontent.com/88650559/220404397-184f52a2-616c-46ed-bc12-d6ab77c15725.png)
