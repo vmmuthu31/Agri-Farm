@@ -11,7 +11,7 @@ Blockchains play a vital role in FARMER to track and trace the origin of food pr
 These are the few apps that only focus on the SCM but not to make familiar with farmer and industry.
 
 ## Our Feature:
-Learning Platform, Suggestion, recommendation and removing sensitive contents, Multilingual Support, Whatsapp Support, Funds Section. The State of Government of Tamil Nadu, Telegana, Karnataka and few more states are giving loans with lower interest only when farmers production limit is above 100kgs. We gonna make a proof of work of the production as soul nfts to avoid the scam generation. We are taking survey with the farmers to build our apps. Our goal to increase farmers productivity and human power to sustain them in economic. 
+Not only SCM is our only motto, but also building a Learning Platform to increase terrace farming or individual farming, Suggestion, recommendation and removing sensitive contents, Multilingual Support, Whatsapp Support, Funds Section. The State of Government of Tamil Nadu, Telegana, Karnataka and few more states are giving loans with lower interest only when farmers production limit is above 100kgs. We gonna make a proof of work of the production as soul nfts to avoid the scam generation. We are taking survey with the farmers to build our apps. Our goal to increase farmers productivity and human power to sustain them in economic. This would work for b2b marketing strategies. 
 
 ## Flow Diagram:
 ![image](https://user-images.githubusercontent.com/88650559/220365168-68b4c389-872b-41e0-a4f8-4b6d9d9a55aa.png)
@@ -45,10 +45,11 @@ To build this solution, the following steps would be required:
 5. Overall, Web3 technology can help revolutionize the food supply chain by enabling end-to-end traceability, improving efficiency and transparency, and enhancing the security of the system. This can ultimately benefit farmers, businesses, and consumers alike
 
 ## Tech Stack:
-FrontEND: NextJS, lit components
+FrontEND: NextJS
 BackEND:  Solidity, DynamoDB.
-Framework: Tailwindcss, React-icons, MaterialUI, Biconomy, Push Protocol, FVM
+Framework: Tailwindcss, React-icons, MaterialUI, Biconomy, Push Protocol, Filecoin
 Technologies: Blockchain, AI/ML, Cloud (AWS).
+UseCases: We use Biconomy Social-Auth to connect web2 user to web3. As farmers has no idea regards wallet it will be the gateway to them. We use Push protocols to notify each step to step progress updation. And the Filecoin blockchain records transactions to provide verification of file storage 
 
 ## Landing Page
 ![image](https://user-images.githubusercontent.com/88650559/220404397-184f52a2-616c-46ed-bc12-d6ab77c15725.png)
