@@ -28,9 +28,9 @@ To build this solution, the following steps would be required:
 2. Choose a blockchain platform: Next, a blockchain platform would need to be selected, such as Ethereum or Hyperledger, that can support the required features and functionality of the dApp.
 <br/>
 3. Develop the dApp: Once the blockchain platform is chosen, the dApp would need to be developed using Web3 technologies, such as Solidity or Web3.js. The dApp would need to be designed to enable the recording and verification of all relevant information about food products, including their origin, processing, and distribution.
-<br/>
+
 4. Test and deploy the dApp: After the dApp is developed, it would need to be tested to ensure that it meets all of the requirements and functions as expected. Once testing is complete, the dApp can be deployed to the blockchain platform and made available for use by businesses and consumers.
-<br/>
+
 5. Regarding the functionality of this solution in real-time, yes, it can function in real-time as the blockchain is designed to operate 24/7 without downtime. As soon as a new food product is added to the blockchain, it will be available for viewing and verification by all relevant parties in real-time. This can help improve the transparency and efficiency of the food supply chain while reducing the risk of fraud and errors.
 
 ## Why is web3 a great technology to solve this problem?
